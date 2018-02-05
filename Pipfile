@@ -9,6 +9,7 @@ name = "pypi"
 
 django = "*"
 slmd = "*"
+gunicorn = "*"
 
 
 [dev-packages]
